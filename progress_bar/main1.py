@@ -12,7 +12,7 @@ FONT = pygame.font.SysFont("Roboto",100)
 CLOCK = pygame.time.Clock()
 
 #work
-WORK = 10000000
+WORK = 10000000 #this is the latency if you want to reduce the bar width's speed
 
 #loading background
 LOADING_BG = pygame.image.load("Loading Bar Background.png")
