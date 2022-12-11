@@ -1,7 +1,4 @@
-#https://www.youtube.com/watch?v=_D-_OmR36Pk
-
 #imports
-import os
 import pygame,sys,threading
 
 pygame.init()
